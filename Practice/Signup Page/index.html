@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Landing Page</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&family=Oswald:wght@200..700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+        *{
+            margin: 0px;
+            padding: 0px;
+            font-family: "Libre Baskerville", serif;
+            text-align: center;
+        }
+        
+
+        .hero-section{
+            margin-top: 10rem;
+        }
+
+        .flex-container{
+            display: flex;
+            justify-content: space-around;
+        }
+
+        #email{
+            margin-top: 1rem;
+            font-weight: lighter;
+            text-decoration: underline grey solid 1.5px;
+            margin-bottom: 1rem;
+        }
+
+        button{
+            padding: 5px;
+            width: 10rem;
+            margin-bottom: 8rem;
+            color: antiquewhite;
+            background-color: black;
+        }
+
+        img{
+            width: 200px;
+            height: 200px;
+        }
+
+    </style>
+  </head>
+  <body>
+    <div class="hero-section">
+        <h1>Sign up for Exclusive Access</h1>
+        <p id="email">Enter your email here</p>
+        <button>SEND</button>
+    </div>
+    <div class="flex-container">
+        <div class="shipping">
+            <img src="./assets/delivery truck.jpg" alt="">
+            <h2>FREE Shipping</h2>
+            <p class="light-font">ALL orders above $99</p> 
+        </div>
+        <div class="delivery">
+            <img src="./assets/heart.webp" alt="">
+            <h2>3 Days delivery</h2>
+            <p class="light-font">Carefully packed with Love</p>
+        </div>
+        <div class="credit">
+            <img src="./assets/credit card.webp" alt="">
+            <h2>Buy now, Pay later</h2>
+            <p class="light-font">With Karnos credit card</p>
+        </div>
+        <div class="payment">
+            <img src="./assets/lock.jpg" alt="">
+            <h2>Safe payment</h2>
+            <p class="light-font">Secure Online payment</p>
+        </div>
+        <div class="support">
+            <img src="./assets/Pool Icon - Noun Project.jpg" alt="">
+            <h2>Support 24/7</h2> 
+            <p>(+91) 111 - 1111</p>
+        </div>
+    </div>
+  </body>
+</html>
+
+<!-- int a=10;
+ int b=10;
+ int c=a+b;
+ printf("%d",c)
+ -->
