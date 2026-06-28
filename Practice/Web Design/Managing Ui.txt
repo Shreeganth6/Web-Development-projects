@@ -1,0 +1,32 @@
+
+We should Maintain a good Heirarchy 
+
+1. BIG BOLDER SQUARER THINGS WILL BE VIEWED FIRST
+
+based on that control the flow of the page 
+
+Important things are present in the color of contrast to the bg
+
+SIZING & COLOR is also important 
+
+2. LAYOUT - Instead of bulk on plain text follow a layout like grid or something
+
+each line should have 6 words or 34 char per line 
+
+3. ALIGNMENT
+
+Try to maintain less number of lines are arrange everything based on the line
+
+Dont tightly cramp everything towards eachother 
+
+Try to give whitspace background for richness 
+
+MAIN THINGS TO REMEMBER 
+
+HEIRARCHY
+LAYOUT
+ALIGNMENT
+WHITE SPACE
+AUDIENCE 
+
+IMPORTANT FEATURE BUTTONS ARE PRESENT IN HIGHLIGHTED COLORS 

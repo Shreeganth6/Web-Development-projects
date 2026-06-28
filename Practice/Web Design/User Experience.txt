@@ -1,0 +1,19 @@
+
+1. SIMPLICITY
+
+Keeping things SIMPLER instead of making it more complex and cluttered
+
+2. CONSISTENCY
+
+For each web page the layout should be similar like the navbar for good UX
+
+3. READING PATTERN 
+
+    1. F Layout : Users see in this pattern in the webpage first so the important things will be present there first
+    2. Z Layout : Users see in this pattern in the webpage first so the important things will be present there firsta
+
+4. ALL PLATFORM DESIGN 
+
+The desing should be applicable for each and every devices including mobile 
+
+

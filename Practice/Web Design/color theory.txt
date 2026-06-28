@@ -1,0 +1,15 @@
+Use color palletes from https://colorhunt.co/
+
+choosing color palletes is important for a good web design
+
+Analogous color pallete : 2 colors that are closer to each other in color wheel -> for Logo design
+Complementary color pallete : 2 colors that are opposite to each other in color wheel -> for the Entire page color pallete
+
+Red conveys Love,Energy,Intensity.               : RedBus says about the Energy in travel
+yellow is more about joy, intellect, attention.  : Rapido says about attention
+Green conveys freshness, growth, safety. example : Big basket says about freshness and safety
+Blue conveys trust, serenity, stability. example : Paytm blue says about trust
+Purple conveys royal, weatlh, femeninity.        : PhonePe says about wealthness
+
+
+Avoid too much of yellow as it grabs attention towards it 

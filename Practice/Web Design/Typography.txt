@@ -1,0 +1,18 @@
+
+Typography families
+
+1. Serif    2. 
+
+in Serif there are 4 types 
+    1. Adobe Jenson : Old Style
+    2. Baskerville : Transitional
+    3. Didot : Modern 
+    4. American Typewriter : slab-Serif
+
+Sans-Serif is more approachable and more readable prefered by Startups
+
+Use 2 fonts for the whole project 
+
+    1.Heading can be from Sans-Serif
+    2.Body can be from Serif
+
